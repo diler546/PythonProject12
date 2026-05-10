@@ -21,10 +21,7 @@ with open("task2/products.json", "r", encoding="utf-8") as file:
 
         available = input("Наличие(y/n):")
 
-        if available != 'n':
-            available = True
-        else:
-            available = False
+        available = available.lower() != 'n'
 
         product = {
             "name": name,

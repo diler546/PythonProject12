@@ -17,6 +17,18 @@
       "price": 123,
       "available": true,
       "weight": 4213
+    },
+    {
+      "name": "sfd",
+      "price": 34,
+      "available": false,
+      "weight": 34
+    },
+    {
+      "name": "g",
+      "price": 4,
+      "available": true,
+      "weight": 4
     }
   ]
 }
