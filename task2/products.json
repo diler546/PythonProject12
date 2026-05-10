@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Шоколад",
+      "price": 50,
+      "available": true,
+      "weight": 100
+    },
+    {
+      "name": "dfg",
+      "price": 43,
+      "available": true,
+      "weight": 43
+    },
+    {
+      "name": "fgds",
+      "price": 123,
+      "available": true,
+      "weight": 4213
+    }
+  ]
+}
